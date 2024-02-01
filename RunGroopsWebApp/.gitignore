@@ -1,0 +1,22 @@
+#Dossiers
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
+logs/
+
+#Fichier de config user
+*.user
+*.userosscache
+*.suo
+
+#Ficher de build temporaire
+*.tmp
+*.temp
+*.cache
+*.bak
+*.log
+
+#Fichier de cache
+.vs/
+
+
