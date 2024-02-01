@@ -1,0 +1,61 @@
+﻿@model Club
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+  <div class="main-container">
+      <nav aria-label="breadcrumb" role="navigation" class="bg-primary text-white">
+        <div class="container">
+          <div class="row justify-content-center">
+            <!--end of col-->
+          </div>
+          <!--end of row-->
+        </div>
+        <!--end of container-->
+      </nav>
+      <section class="bg-white space-sm">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-7 mb-4 mb-sm-0">
+              <img alt="Image" src="@Model.Image" class="rounded img-fluid" />
+            </div>
+            <!--end of col-->
+            <div class="col-lg-4 d-flex flex-column justify-content-between mr-auto ml-auto">
+              <div>
+                <h1 class="mb-2">@Model.Title</h1>
+                <h2 class="lead mb-3">@Model.Address.City, @Model.Address.State</h2>
+                <h3 class="lead mb-3">@Model.Address.Street</h3>
+                <h4 class="lead mb-4">Category: @Model.ClubCategory</h4>
+              </div>
+              <div>
+                <div class="btn-group mb-2">
+                  <button type="button" class="btn btn-success btn-lg">Join Club</button>
+                </div>
+              </div>
+            </div>
+            <!--end of col-->
+          </div>
+          <!--end of row-->
+        </div>
+        <!--end of container-->
+      </section>
+      <!--end of section-->
+      <section class="space-sm">
+        <div class="container">
+          <div class="row justify-content-between">
+            <div class="col-12 col-md-8 col-lg-7">
+              <h5 class="mb-4">@Model.Title</h5>
+              <article>
+                @Model.Description
+              </article>
+              <hr>
+            </div>
+            <!--end of col-->
+          </div>
+          <!--end of row-->
+        </div>
+        <!--end of container-->
+      </section>
+    </div>
