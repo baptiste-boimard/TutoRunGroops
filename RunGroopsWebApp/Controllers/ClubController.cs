@@ -129,12 +129,12 @@ public class ClubController : Controller
 
     public async Task<IActionResult> Delete(int id)
     {
-        var club = await _clubRepository.GetByIdAsync(id);
-        if (club == null) return View("Error");
-        return View("Detail");
+        var clubDetail = await _clubRepository.GetByIdAsync(id);
+        if (clubDetail == null) return View("Error");
+        return View(clubDetail);
     }
 
-    [HttpPost, ActionName("DeleteClub")]
+    [HttpPost, ActionName("Delete")]
     public async Task<IActionResult> DeleteClub(int id)
     {
         var club = await _clubRepository.GetByIdAsync(id);
