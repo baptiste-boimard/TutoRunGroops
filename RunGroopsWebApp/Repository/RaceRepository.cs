@@ -16,12 +16,17 @@ public class RaceRepository : IRaceRepository
 
     public async Task<IEnumerable<Race>> GetAll()
     {
-        return await _context.Races.ToListAsync();
+        return await _context.Races.OrderBy(i => i.Id).ToListAsync();
     }
 
     public async Task<Race> GetbyIdAsync(int id)
     {
-        return await _context.Races.Include(a => a.Address).FirstOrDefaultAsync(i => i.Id == id);
+        return await _context.Races.Include( a => a.Address).FirstOrDefaultAsync(i => i.Id == id);
+    }
+    
+    public async Task<Race> GetbyIdAsyncNoTracking(int id)
+    {
+        return await _context.Races.Include(a => a.Address).AsNoTracking().FirstOrDefaultAsync(i => i.Id == id);
     }
 
     public async Task<IEnumerable<Race>> GetRaceByCity(string race)

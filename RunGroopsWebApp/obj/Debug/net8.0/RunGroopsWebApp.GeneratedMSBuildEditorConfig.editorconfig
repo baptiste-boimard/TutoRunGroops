@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Club/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Club/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9EZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +52,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Race/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Race/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Race/Index.cshtml]

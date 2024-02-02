@@ -136,3 +136,6 @@
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/RunGroopsWebApp.pdb
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/RunGroopsWebApp.genruntimeconfig.cache
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/ref/RunGroopsWebApp.dll
+/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/bin/Debug/net8.0/CloudinaryDotNet.dll
+/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/RunGroopsWebApp.sourcelink.json
