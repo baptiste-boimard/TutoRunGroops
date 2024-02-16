@@ -1,3 +1,4 @@
+using System.Security.Claims;
 using RunGroopWebApp.Data;
 using RunGroopWebApp.Interfaces;
 using RunGroopWebApp.Models;
@@ -17,15 +18,21 @@ public class DashboardRepository : IDashboardRepository
 
   public async Task<List<Club>> GetAllUserClubs()
   {
-    var curUser = _httpContextAccessor.HttpContext?.User;
-    var userClubs = _context.Clubs.Where(r => r.AppUserId == curUser.ToString());
+    var curUserId = _httpContextAccessor.HttpContext?.User?.FindFirst(ClaimTypes.NameIdentifier).Value;
+    var userClubs = _context.Clubs.Where(r => r.AppUserId == curUserId);
     return userClubs.ToList();
   }
 
+ 
   public async Task<List<Race>> GetAllUserRaces()
   {
-    var curUser = _httpContextAccessor.HttpContext?.User;
-    var userRaces = _context.Races.Where(r => r.AppUserId == curUser.ToString());
+    var curUserId = _httpContextAccessor.HttpContext?.User?.FindFirst(ClaimTypes.NameIdentifier).Value;
+    var userRaces = _context.Races.Where(r => r.AppUserId == curUserId);
     return userRaces.ToList();
+  }
+  
+  public async Task<AppUser> GetUserById(string id)
+  {
+    return await _context.Users.FindAsync(id);
   }
 }
