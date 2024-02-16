@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Net.Mime;
 using RunGroopWebApp.Data.Enum;
 
 namespace RunGroopWebApp.Models;
@@ -16,6 +17,6 @@ public class Race
     public Address Address { get; set; }
     public RaceCategory RaceCategory { get; set; }
     [ForeignKey("AppUser")]
-    public int? AppUserId { get; set; }
+    public string? AppUserId { get; set; }
     public AppUser? AppUser { get; set; }
 }

@@ -130,7 +130,6 @@
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/scopedcss/bundle/RunGroopsWebApp.styles.css
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/scopedcss/projectbundle/RunGroopsWebApp.bundle.scp.css
-/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/RunGroopsWebApp.csproj.CopyComplete
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/RunGroopsWebApp.dll
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/refint/RunGroopsWebApp.dll
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/RunGroopsWebApp.pdb
@@ -139,3 +138,10 @@
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/bin/Debug/net8.0/CloudinaryDotNet.dll
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/bin/Debug/net8.0/Newtonsoft.Json.dll
 /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/RunGroopsWebApp.sourcelink.json
+/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/Debug/net8.0/RunGroop.3B90BBD5.Up2Date

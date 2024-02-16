@@ -21,7 +21,9 @@ public class RaceRepository : IRaceRepository
 
     public async Task<Race> GetbyIdAsync(int id)
     {
-        return await _context.Races.Include( a => a.Address).FirstOrDefaultAsync(i => i.Id == id);
+        return await _context.Races
+            .Include( a => a.Address)
+            .FirstOrDefaultAsync(i => i.Id == id);
     }
     
     public async Task<Race> GetbyIdAsyncNoTracking(int id)

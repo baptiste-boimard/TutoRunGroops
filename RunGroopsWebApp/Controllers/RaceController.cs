@@ -19,7 +19,7 @@ public class RaceController : Controller
         _photoService = photoService;
     }
 
-    // GET
+    [HttpGet]
     public async Task<IActionResult> Index()
     {
         IEnumerable<Race> races = await _raceRepository.GetAll();
@@ -75,7 +75,7 @@ public class RaceController : Controller
         {
             Title = race.Title,
             Description = race.Description,
-            AddressId = race.AddressId,
+            Address = race.Address,
             URL = race.Image,
             RaceCategory = race.RaceCategory
         };
