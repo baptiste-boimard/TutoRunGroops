@@ -28,7 +28,10 @@ public class RaceRepository : IRaceRepository
     
     public async Task<Race> GetbyIdAsyncNoTracking(int id)
     {
-        return await _context.Races.Include(a => a.Address).AsNoTracking().FirstOrDefaultAsync(i => i.Id == id);
+        return await _context.Races
+            .Include(a => a.Address)
+            .AsNoTracking()
+            .FirstOrDefaultAsync(i => i.Id == id);
     }
 
     public async Task<IEnumerable<Race>> GetRaceByCity(string race)

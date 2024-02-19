@@ -9,103 +9,103 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RunGroopWebApp
 build_property.RootNamespace = RunGroopWebApp
-build_property.ProjectDir = /home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/
+build_property.ProjectDir = /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp
+build_property.MSBuildProjectDirectory = /home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Account/Login.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Account/Register.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Club/Create.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Club/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Club/Delete.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Club/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Club/Detail.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Club/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9EZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Club/Edit.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Club/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Club/Index.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Club/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Dashboard/EditUserProfil.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaGJvYXJkL0VkaXRVc2VyUHJvZmlsLmNzaHRtbA==
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Dashboard/EditUserProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaGJvYXJkL0VkaXRVc2VyUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Dashboard/Index.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Home/Index.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Home/Privacy.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Race/Create.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Race/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Race/Delete.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Race/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Race/Detail.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Race/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9EZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Race/Edit.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Race/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Race/Index.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Race/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Shared/Error.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/User/Detail.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/User/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9EZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/User/Index.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/_ViewImports.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/_ViewStart.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/Views/Shared/_Layout.cshtml]
+[/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-khzqpwx2xa

@@ -25,6 +25,7 @@ public class UserController : Controller
                 UserName = user.UserName,
                 Pace = user.Pace,
                 Mileage = user.Mileage,
+                ProfileImageUrl = user.ProfileImageUrl,
             };
             result.Add(userViewModel);
         }
@@ -34,12 +35,13 @@ public class UserController : Controller
     public async Task<IActionResult> Detail(string id)
     {
         var user = await _userRepository.GetUserById(id);
-        var userDetailViewModel = new EditUserDashboardViewModel()
+        var userDetailViewModel = new UserViewModel()
         {
             Id = user.Id,
             UserName = user.UserName,
             Pace = user.Pace,
             Mileage = user.Mileage,
+            ProfileImageUrl = user.ProfileImageUrl,
         };
         return View(userDetailViewModel);
     }

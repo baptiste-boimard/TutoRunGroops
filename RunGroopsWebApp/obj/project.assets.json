@@ -7833,19 +7833,19 @@
     ]
   },
   "packageFolders": {
-    "/home/baptiste/.nuget/packages/": {}
+    "/home/punky/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/RunGroopsWebApp.csproj",
+      "projectUniqueName": "/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/RunGroopsWebApp.csproj",
       "projectName": "RunGroopsWebApp",
-      "projectPath": "/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/RunGroopsWebApp.csproj",
-      "packagesPath": "/home/baptiste/.nuget/packages/",
-      "outputPath": "/home/baptiste/Code/Projets/TutoRunGroops/RunGroopsWebApp/obj/",
+      "projectPath": "/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/RunGroopsWebApp.csproj",
+      "packagesPath": "/home/punky/.nuget/packages/",
+      "outputPath": "/home/punky/RiderProjects/RunGroopWebApp/RunGroopsWebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/baptiste/.nuget/NuGet/NuGet.Config"
+        "/home/punky/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -7912,20 +7912,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.2, 8.0.2]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[8.0.2, 8.0.2]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.2, 8.0.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
